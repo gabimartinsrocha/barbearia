@@ -18,6 +18,10 @@ em strong {
     color:#FF0000;
     }
 
+.itens { 
+font-style: italic;
+}
+
     #missão { 
         font-size: 20px;
         }
